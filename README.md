@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 💙
 
-<!--
-**Sam14112007/Sam14112007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Samuel Soares
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://WWW.alura.com.br)
+- Estou me desenvolvendo na linguagem javaScript
+- Utilizo esse espaço para minha organizaçao e compatilhamento dos meus projeto desenvolvido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Voce pode entrar em contato comigo 📪
+
+  0001113743001sp@al.educacao.sp.gobpv.br
+
+![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
+
+  
