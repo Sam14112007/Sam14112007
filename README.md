@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil 💙
+ ### Boas vindas ao meu perfil 💙
 
 Meu nome é Samuel Soares
 
@@ -8,7 +8,7 @@ Meu nome é Samuel Soares
 
   ### Voce pode entrar em contato comigo 📪
 
-  0001113743001sp@al.educacao.sp.gobpv.br
+  0001113743001sp@al.educacao.sp.go gov.br
 
 ![](https://media1.tenor.com/m/opEBWw0uddoAAAAC/umm.gif)
 
